@@ -25,4 +25,4 @@ and I'm a part-time student in UC Berkeley's Master of Information & Data Scienc
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- ## GitHub Highlights -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjconde3&theme=dark&lands_count=3" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjconde3&theme=dark&lands_count=3" />
