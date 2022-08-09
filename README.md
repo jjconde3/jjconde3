@@ -8,7 +8,7 @@ and I'm a part-time student in UC Berkeley's Master of Information & Data Scienc
 
 🔋 &nbsp; &nbsp; Resource Optimization Specialist at Southern California Edison
 
-🎓 &nbsp; &nbsp; (Soon to be) Double UC Berkeley grad 💙🐻💛 
+🎓 &nbsp; &nbsp; Double UC Berkeley grad 💙🐻💛 
 
 &nbsp; &nbsp; 📈 &nbsp; &nbsp; Master of Information & Data Science (Aug 2022)
 
