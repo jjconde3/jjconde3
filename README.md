@@ -3,10 +3,10 @@
 
 Thanks for visiting my GitHub! 
 My name is Jenny, and I'm passionate about using data science to fight climate change. 
-I currently work in Southern California Edison's Energy Procurement division,
-and I'm a part-time student in UC Berkeley's Master of Information & Data Science Program.
+I currently work as a Data Scientist at NextEra Mobility, advancing models and software products to accelerate fleet electrification in North America.
+I am a two-time UC Berkeley graduate and recently completed my Master of Information & Data Science.
 
-🔋 &nbsp; &nbsp; Resource Optimization Specialist at Southern California Edison
+🔋 &nbsp; &nbsp; Data Scientist at NextEra Mobility
 
 🎓 &nbsp; &nbsp; Double UC Berkeley grad 💙🐻💛 
 
