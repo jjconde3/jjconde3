@@ -14,11 +14,9 @@ I am a two-time UC Berkeley graduate and recently completed my Master of Informa
 
 &nbsp; &nbsp; ⚡ &nbsp; &nbsp; B.S. Energy Engineering, Minor in Mechanical Engineering (May 2020)
 
-📧 &nbsp; &nbsp; jconde@berkeley.edu
+📧 &nbsp; &nbsp; jjconde3@gmail.com
 
-<img align="left" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />www.linkedin.com/in/JenniferConde
-
-<!-- ![LinkedIn][1] www.linkedin.com/in/JenniferConde -->
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) &nbsp; &nbsp;  [www.linkedin.com/in/JenniferConde](www.linkedin.com/in/JenniferConde)
 
 
 
